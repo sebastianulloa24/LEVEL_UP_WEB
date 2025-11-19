@@ -59,23 +59,23 @@ function CardsList() {
       buttonText: "Ir a comprar",
       link: "#"
     }
-    // ,
-    // {
-    //   id: 7,
-    //   title: "RTX5060",
-    //   text: "Tarjeta gráfica de alto rendimiento ideal para gaming y diseño.",
-    //   image: RTX5060,
-    //   buttonText: "Ir a comprar",
-    //   link: "#"
-    // },
-    // {
-    //   id: 8,
-    //   title: "",
-    //   text: "",
-    //   image: JuegoWukong,
-    //   buttonText: "Ir a comprar",
-    //   link: "#"
-    // },
+    ,
+    {
+      id: 7,
+      title: "RTX5060",
+      text: "Tarjeta gráfica de alto rendimiento ideal para gaming y diseño.",
+      image: RTX5060,
+      buttonText: "Ir a comprar",
+      link: "#"
+    },
+    {
+      id: 8,
+      title: "",
+      text: "",
+      image: JuegoWukong,
+      buttonText: "Ir a comprar",
+      link: "#"
+    },
     // {
     //   id: 9,
     //   title: "",

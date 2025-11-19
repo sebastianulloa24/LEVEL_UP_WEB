@@ -1,7 +1,7 @@
 .ajuste-cards {
     width: 100%;                 /* ocupa todo el ancho de la card */
     height: 200px;               /* altura uniforme para todas las imágenes */
-    object-fit: cover;           /* recorta proporcionalmente sin deformar */
+    object-fit: cover;           /* recorta proporcionalmente sin deformar */   
     overflow: hidden;            /* evita que la imagen sobresalga */
     border-radius: 12px;         /* bordes redondeados para suavizar */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* sombra suave sobre fondo negro */
