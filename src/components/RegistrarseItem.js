@@ -2,7 +2,7 @@ import React from 'react'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import '../../styles/css/registrarse.css'
+import '../styles/css/registrarse.css'
 import { Link } from 'react-router-dom';
 
 function RegistrarseItem() {

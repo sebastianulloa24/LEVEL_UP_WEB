@@ -1,6 +1,6 @@
 import React from 'react'
 import fondo from '../backgrounds/fondo-nintendo.jpg'
-import ProductosList from '../components/ProducatalogoComponente/ProductosList'
+import ProductosList from '../components/ProductosList'
 
 
 

@@ -1,15 +1,15 @@
 import React from 'react'
 import ProductoItem from './ProductoItem';
-import img1 from '../../assets/imagenes/ProductosTienda/catan.avif'
-import imgCarcassonne from '../../assets/imagenes/ProductosTienda/Carcassonne.jpg'
-import imgControlador from '../../assets/imagenes/ProductosTienda/Controlador Inalámbrico Xbox Series X.jpg'
-import imgPlayStation5 from '../../assets/imagenes/ProductosTienda/PlayStation_5.jpeg'
-import imgPCGamer from '../../assets/imagenes/ProductosTienda/PC Gamer ASUS ROG Strix.jpg'
-import imgSilla from '../../assets/imagenes/ProductosTienda/Silla Gamer Secretlab Titan.webp'
-import imgMouse from '../../assets/imagenes/ProductosTienda/Mouse Gamer Logitech G502 HERO.jpg'
-import imgMousePad from '../../assets/imagenes/ProductosTienda/Mousepad Razer.webp'
-import imgPolera from '../../assets/imagenes/ProductosTienda/Polera Gamer Personalizada.jpg'
-import imgAuriculares from '../../assets/imagenes/ProductosTienda/Auriculares Gamer HyperX Cloud II.webp'
+import img1 from '../assets/imagenes/ProductosTienda/catan.avif'
+import imgCarcassonne from '../assets/imagenes/ProductosTienda/Carcassonne.jpg'
+import imgControlador from '../assets/imagenes/ProductosTienda/Controlador Inalámbrico Xbox Series X.jpg'
+import imgPlayStation5 from '../assets/imagenes/ProductosTienda/PlayStation_5.jpeg'
+import imgPCGamer from '../assets/imagenes/ProductosTienda/PC Gamer ASUS ROG Strix.jpg'
+import imgSilla from '../assets/imagenes/ProductosTienda/Silla Gamer Secretlab Titan.webp'
+import imgMouse from '../assets/imagenes/ProductosTienda/Mouse Gamer Logitech G502 HERO.jpg'
+import imgMousePad from '../assets/imagenes/ProductosTienda/Mousepad Razer.webp'
+import imgPolera from '../assets/imagenes/ProductosTienda/Polera Gamer Personalizada.jpg'
+import imgAuriculares from '../assets/imagenes/ProductosTienda/Auriculares Gamer HyperX Cloud II.webp'
 
 
 

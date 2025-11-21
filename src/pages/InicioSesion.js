@@ -1,7 +1,7 @@
 import React from 'react'
 //import de imagen fondo
 import fondo from '../backgrounds/gif-fondo-paisaje.gif'
-import InicioSesionItem from '../components/InicioSesionComponente/InicioSesionItem'
+import InicioSesionItem from '../components/InicioSesionItem'
 
 function InicioSesion() {
     return (

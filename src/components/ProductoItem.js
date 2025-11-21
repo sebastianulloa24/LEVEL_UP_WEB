@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card';
-import '../../styles/css/productos.css'
+import '../styles/css/productos.css';
 
 
 function ProductoItem({image,idProducto, nombreProducto, categoriaProducto, valorProducto}) {

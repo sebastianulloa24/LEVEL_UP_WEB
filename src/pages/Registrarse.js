@@ -1,6 +1,6 @@
 import React from 'react';
 import fondo from '../../src/backgrounds/gif-fondo-paisaje.gif'
-import RegistrarseItem from '../components/RegistrarseComponente/RegistrarseItem';
+import RegistrarseItem from '../components/RegistrarseItem';
 
 function Registrarse() {
   return (

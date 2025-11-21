@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import '../../styles/css/iniciosesion.css'
+import '../styles/css/iniciosesion.css';
 
 function InicioSesionItem() {
     return (

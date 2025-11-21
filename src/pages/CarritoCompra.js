@@ -1,6 +1,6 @@
 import React from 'react'
 import fondo from '../backgrounds/gif-fondo-paisaje.gif'
-import CarritoCompraList from '../components/CarritoComponente/CarritoCompraList'
+import CarritoCompraList from '../components/CarritoCompraList'
 
 
 
