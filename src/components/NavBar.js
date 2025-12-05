@@ -50,6 +50,9 @@ function NavBar() {
             <Nav.Link as={Link} to="/perfil">
               <Button variant="success" className="ms-2"> Perfil </Button>
             </Nav.Link>
+            <Nav.Link as={Link} to="/Admin">
+              <Button variant="success" className="ms-2"> Admin </Button>
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

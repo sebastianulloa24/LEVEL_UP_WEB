@@ -1,7 +1,8 @@
-import React from 'react'
-import BannerInicio from '../components/Banner'
-import fondo from '../../src/backgrounds/fondo-nintendo.jpg'
-import CardsList from '../components/CardsList'
+import React from 'react';
+import BannerInicio from '../components/Banner';
+import fondo from '../../src/backgrounds/fondo-nintendo.jpg';
+import CardsList from '../components/CardsList';
+import NavBarPublic from "../components/NavBar";
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       paddingTop: '80px'
     }}>
 
+      <NavBarPublic />
       <div className='col-lg-12'>
         <BannerInicio />
       </div>
@@ -32,4 +34,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Home;

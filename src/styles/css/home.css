@@ -172,75 +172,6 @@ footer {
 }
 
 
-/*=============================================
-=                TARJETAS (CARDS)             =
-=============================================*/
-
-/* Ajustar tamaño fijo de imágenes */
-.card-img-fixed {
-  height: 350px;
-  object-fit: cover;
-  transition: 0.5s ease;
-}
-
-/* Efecto hover en cards */
-.card-hover:hover .card-img-fixed {
-  filter: brightness(60%);
-  transform: scale(1.05);
-}
-
-/* Texto neón al pasar el mouse */
-.card-hover:hover .card-title,
-.card-hover:hover .card-text {
-  color: #fff;
-  text-shadow: 0 0 8px #1E90FF, 0 0 12px #39FF14;
-}
-
-
-/*=============================================
-=              CARD SOPORTE                   =
-=============================================*/
-
-.card-soporte {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.card-soporte:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.3);
-}
-
-/* Imagen con overlay al hover */
-.img-container {
-  position: relative;
-  overflow: hidden;
-}
-
-.img-container img {
-  transition: all 0.3s ease;
-}
-
-.card-soporte:hover .img-container img {
-  filter: brightness(70%);
-}
-
-/* Botón personalizado */
-.btn-soporte {
-  display: inline-block;
-  padding: 10px 20px;
-  font-weight: bold;
-  color: #fff;
-  background: linear-gradient(135deg, #28a745, #218838);
-  border: none;
-  border-radius: 8px;
-  transition: all 0.3s ease;
-}
-
-.btn-soporte:hover {
-  background: linear-gradient(135deg, #218838, #28a745);
-  transform: translateY(-2px);
-}
-
 
 /*=============================================
 =              ICONOS SOCIALES                =
@@ -294,3 +225,4 @@ footer {
   margin: 0 auto;
   width: 300px;
 }
+

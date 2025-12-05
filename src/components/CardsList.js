@@ -76,14 +76,14 @@ function CardsList() {
       buttonText: "Ir a comprar",
       link: "#"
     },
-    // {
-    //   id: 9,
-    //   title: "",
-    //   text: "MANUEEEEEEEL GEI",
-    //   image: juegoElden,
-    //   buttonText: "Ir a comprar",
-    //   link: "#"
-    // },
+    {
+      id: 9,
+      title: "",
+      text: "",
+      image: juegoElden,
+      buttonText: "Ir a comprar",
+      link: "#"
+    },
     // {
     //   id: 10,
     //   title: "",
